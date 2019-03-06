@@ -1,7 +1,7 @@
 {
   "name": "clicky-game",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "http://rayliraykov.com/clicky-game/",
   "dependencies": {
     "gh-pages": "^2.0.1",
