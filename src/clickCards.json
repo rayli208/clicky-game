@@ -1,0 +1,446 @@
+[
+  {
+    "id": 1,
+    "name": "Mario",
+    "image": "./images/mario.jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "name": "Donkey Kong",
+    "image": "./images/donkey.jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "name": "Link",
+    "image": "./images/link.jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "name": "Samus",
+    "image": "./images/samus.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "name": "Yoshi",
+    "image": "./images/yoshi.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "name": "Kirby",
+    "image": "./images/kirby.jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "name": "Fox",
+    "image": "./images/fox.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "name": "Pikachu",
+    "image": "./images/pikachu.jpg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "name": "Luigi",
+    "image": "./images/luigi.jpg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "name": "Ness",
+    "image": "./images/ness.jpg",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "name": "Jigglypuff",
+    "image": "./images/jigglypuff.jpg",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "name": "Captain Falcon",
+    "image": "./images/captFalcon.jpg",
+    "clicked": false
+  },
+  {
+    "id": 13,
+    "name": "Peach",
+    "image": "./images/peach.jpg",
+    "clicked": false
+  },
+  {
+    "id": 14,
+    "name": "Bowser",
+    "image": "./images/bowser.jpg",
+    "clicked": false
+  },
+  {
+    "id": 15,
+    "name": "Zelda",
+    "image": "./images/zelda.jpg",
+    "clicked": false
+  },
+  {
+    "id": 16,
+    "name": "Sheik",
+    "image": "./images/sheik.jpg",
+    "clicked": false
+  },
+  {
+    "id": 17,
+    "name": "Ice Climbers",
+    "image": "./images/iceClimbers.jpg",
+    "clicked": false
+  },
+  {
+    "id": 18,
+    "name": "Young Link",
+    "image": "./images/youngLink.jpg",
+    "clicked": false
+  },
+  {
+    "id": 19,
+    "name": "Ganondorf",
+    "image": "./images/ganondorf.jpg",
+    "clicked": false
+  },
+  {
+    "id": 20,
+    "name": "Mewtwo",
+    "image": "./images/mewtwo.jpg",
+    "clicked": false
+  },
+  {
+    "id": 21,
+    "name": "Pichu",
+    "image": "./images/pichu.jpg",
+    "clicked": false
+  },
+  {
+    "id": 22,
+    "name": "Marth",
+    "image": "./images/marth.jpg",
+    "clicked": false
+  },
+  {
+    "id": 23,
+    "name": "Roy",
+    "image": "./images/roy.jpg",
+    "clicked": false
+  },
+  {
+    "id": 24,
+    "name": "Dr. Mario",
+    "image": "./images/drMario.jpg",
+    "clicked": false
+  },
+  {
+    "id": 25,
+    "name": "Mr. Game & Watch",
+    "image": "./images/mrGameAndWatch.jpg",
+    "clicked": false
+  },
+  {
+    "id": 26,
+    "name": "Falco",
+    "image": "./images/falco.jpg",
+    "clicked": false
+  },
+  {
+    "id": 27,
+    "name": "Meta Knight",
+    "image": "./images/metaKnight.jpg",
+    "clicked": false
+  },
+  {
+    "id": 28,
+    "name": "Pit",
+    "image": "./images/pit.jpg",
+    "clicked": false
+  },
+  {
+    "id": 29,
+    "name": "Zero Suit Samus",
+    "image": "./images/zeroSuitSamus.jpg",
+    "clicked": false
+  },
+  {
+    "id": 30,
+    "name": "Wario",
+    "image": "./images/wario.jpg",
+    "clicked": false
+  },
+  {
+    "id": 31,
+    "name": "Snake",
+    "image": "./images/snake.jpg",
+    "clicked": false
+  },
+  {
+    "id": 32,
+    "name": "Ike",
+    "image": "./images/ike.jpg",
+    "clicked": false
+  },
+  {
+    "id": 33,
+    "name": "Pokemon Trainer",
+    "image": "./images/pokemonTrainer.jpg",
+    "clicked": false
+  },
+  {
+    "id": 34,
+    "name": "Diddy Kong",
+    "image": "./images/diddy.jpg",
+    "clicked": false
+  },
+  {
+    "id": 35,
+    "name": "Lucas",
+    "image": "./images/lucas.jpg",
+    "clicked": false
+  },
+  {
+    "id": 36,
+    "name": "Sonic",
+    "image": "./images/sonic.jpg",
+    "clicked": false
+  },
+  {
+    "id": 37,
+    "name": "King Dedede",
+    "image": "./images/kingdedede.jpg",
+    "clicked": false
+  },
+  {
+    "id": 38,
+    "name": "Olimar",
+    "image": "./images/olimar.jpg",
+    "clicked": false
+  },
+  {
+    "id": 39,
+    "name": "Lucario",
+    "image": "./images/lucario.jpg",
+    "clicked": false
+  },
+  {
+    "id": 40,
+    "name": "ROB",
+    "image": "./images/rob.jpg",
+    "clicked": false
+  },
+  {
+    "id": 41,
+    "name": "Wolf",
+    "image": "./images/wolf.jpg",
+    "clicked": false
+  },
+  {
+    "id": 42,
+    "name": "Toon Link",
+    "image": "./images/toonLink.jpg",
+    "clicked": false
+  },
+  {
+    "id": 43,
+    "name": "Villager",
+    "image": "./images/villager.jpg",
+    "clicked": false
+  },
+  {
+    "id": 44,
+    "name": "Mega Man",
+    "image": "./images/megaman.jpg",
+    "clicked": false
+  },
+  {
+    "id": 45,
+    "name": "Wii Fit Trainer",
+    "image": "./images/wiiFitTrainer.jpg",
+    "clicked": false
+  },
+  {
+    "id": 46,
+    "name": "Rosalina & Luma",
+    "image": "./images/RosalinaAndLuma.jpg",
+    "clicked": false
+  },
+  {
+    "id": 47,
+    "name": "Little Mac",
+    "image": "./images/littleMac.jpg",
+    "clicked": false
+  },
+  {
+    "id": 48,
+    "name": "Greninja",
+    "image": "./images/greninja.jpg",
+    "clicked": false
+  },
+  {
+    "id": 49,
+    "name": "Mii Brawler",
+    "image": "./images/miiBrawler.jpg",
+    "clicked": false
+  },
+  {
+    "id": 50,
+    "name": "Mii Gunner",
+    "image": "./images/miiGunner.jpg",
+    "clicked": false
+  },
+  {
+    "id": 51,
+    "name": "Mii Swordfighter",
+    "image": "./images/miiSwordfighter.jpg",
+    "clicked": false
+  },
+  {
+    "id": 52,
+    "name": "Palutena",
+    "image": "./images/palutena.jpg",
+    "clicked": false
+  },
+  {
+    "id": 53,
+    "name": "Pac-man",
+    "image": "./images/pacMan.jpg",
+    "clicked": false
+  },
+  {
+    "id": 54,
+    "name": "Robin",
+    "image": "./images/robin.jpg",
+    "clicked": false
+  },
+  {
+    "id": 55,
+    "name": "Shulk",
+    "image": "./images/shulk.jpg",
+    "clicked": false
+  },
+  {
+    "id": 56,
+    "name": "Bowser Jr",
+    "image": "./images/bowserJr.jpg",
+    "clicked": false
+  },
+  {
+    "id": 57,
+    "name": "Duck Hunt",
+    "image": "./images/duckHunt.jpg",
+    "clicked": false
+  },
+  {
+    "id": 58,
+    "name": "Ryu",
+    "image": "./images/ryu.jpg",
+    "clicked": false
+  },
+  {
+    "id": 59,
+    "name": "Cloud",
+    "image": "./images/cloud.jpg",
+    "clicked": false
+  },
+  {
+    "id": 60,
+    "name": "Corrin",
+    "image": "./images/corrin.jpg",
+    "clicked": false
+  },
+  {
+    "id": 61,
+    "name": "Bayonetta",
+    "image": "./images/bayonetta.jpg",
+    "clicked": false
+  },
+  {
+    "id": 62,
+    "name": "Inkling",
+    "image": "./images/inkling.jpg",
+    "clicked": false
+  },
+  {
+    "id": 63,
+    "name": "Ridley",
+    "image": "./images/ridley.jpg",
+    "clicked": false
+  },
+  {
+    "id": 64,
+    "name": "Simon Belmont",
+    "image": "./images/simon.jpg",
+    "clicked": false
+  },
+  {
+    "id": 65,
+    "name": "King K. Rool",
+    "image": "./images/kingKRool.jpg",
+    "clicked": false
+  },
+  {
+    "id": 66,
+    "name": "Isabelle",
+    "image": "./images/isabelle.jpg",
+    "clicked": false
+  },
+  {
+    "id": 67,
+    "name": "Incineroar",
+    "image": "./images/incineroar.png",
+    "clicked": false
+  },
+  {
+    "id": 68,
+    "name": "Dark Samus",
+    "image": "./images/darkSamus.jpg",
+    "clicked": false
+  },
+  {
+    "id": 69,
+    "name": "Daisy",
+    "image": "./images/daisy.jpg",
+    "clicked": false
+  },
+  {
+    "id": 70,
+    "name": "Lucina",
+    "image": "./images/lucina.jpg",
+    "clicked": false
+  },
+  {
+    "id": 71,
+    "name": "Chrom",
+    "image": "./images/chrom.jpg",
+    "clicked": false
+  },
+  {
+    "id": 72,
+    "name": "Dark Pit",
+    "image": "./images/darkPit.jpg",
+    "clicked": false
+  },
+  {
+    "id": 73,
+    "name": "Richter Belmont",
+    "image": "./images/richter.jpg",
+    "clicked": false
+  },
+  {
+    "id": 74,
+    "name": "Ken",
+    "image": "./images/ken.jpg",
+    "clicked": false
+  }
+]
